@@ -1,0 +1,18 @@
+=>Prime movers
+In the energy industry, prime movers drive pumping units, compressors, chillers, and other forms of related equipment.
+Prime mover" is a technical term of art in science and engineering meaning any machine (or component of a machine) that converts energy from an energy source into mechanical energy (shaft power), usually as a motive power source providing traction to move a vehicle.
+In machines, the prime mover, such as an electric motor, generates the main mechanical motion for the machine.
+
+Prime movers use the different sources of energy.The various sources are as follow:
+
+=>Burning of fuels:
+This is a most important source of energy.When any fuel is burnt,it releases the heat energy.The energy given out by fuel depends on the type of the fuel burnt.Different fuels have different calorific values and based on that heat is liberated by fuel.Then this heat energy is converted into the mechanical energy.
+
+=>River water:
+It is another useful and widely used source of energy.Water flowing from certain height contains the potential energy.This potential energy is converted into kinetic energy when it reaches to the prime mover.here prime mover is hydraulic turbine through which power is generated.The another use of river water is to produce steam in a boiler.Again this steam is used in steam turbines and steam engines to produce the mechanical power.
+
+=>Atoms:
+Now a days with recent development atoms are used as a good and rich source of energy.Heat energy is produced by fission or fusion of atoms.This heat energy is converted into mechanical work by engines.
+ 
+=>Wind Energy:
+This source of energy is widely used now a days because it is available freely everywhere. It is a renewable source of energy.

@@ -1,0 +1,25 @@
+Prime Movers:-
+             Prime movers is a device which uses natural sources to convert their energy into mechanical energy useful work.
+Pressure:-
+Pressure is the property of fluid and it is defined as force per unit area.
+		Pressure = Force/Area   or  F/a N/m^2
+	the unit of pressure is N/m^2 N/m^2 is known as Pascal(Pa)
+			1 Pa= 1 N/m^2.
+
+Efficiency:-
+		It is observed that amount of energy supplied to engine or machine is not completly converted into work because some amount of energy is lost due to
+fiction and seeveral other reasons. So a fraction of the the energy supplied to engine is converted into useful work.This fraction is called efficiency of the engine.
+
+		     Energy output from engine
+	Efficiency = __________________________
+		     Energy input to engine
+
+The range of mechanical efficiency for I.C engines is 80-85%.
+
+Power:-
+	Power is defined as the rate of doing work OR The power done per unit time.
+
+		power=Joule/second
+	The power available at the engine shaft is called Brake power and the power developed by the engine is called Indicated power.
+Adiabetic index = Cv/Cp=r^-1
+		     

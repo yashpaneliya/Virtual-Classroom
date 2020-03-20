@@ -1,0 +1,25 @@
+=>boiler is a closed vessel in which fluid (generally water) is heated. The fluid does not necessarily boil. The heated or vaporized fluid exits the boiler for use in various processes or heating applications,including water heating, central heating, boiler-based power generation, cooking, and sanitation.
+
+=>fossil fuel power plant using a steam cycle for power generation, the primary heat source will be combustion of coal, oil, or natural gas. In some cases byproduct fuel such as the carbon-monoxide rich offgasses of a coke battery can be burned to heat a boiler; biofuels such as bagasse, where economically available, can also be used. In a nuclear power plant, boilers called steam generators are heated by the heat produced by nuclear fission. Where a large volume of hot gas is available from some process, a heat recovery steam generator or recovery boiler can use the heat to produce steam, with little or no extra fuel consumed.
+
+There are two methods to measure the boiler efficiency:
+
+Direct method: Direct method of boiler efficiency test is more usable or more common.
+
+=>Boiler efficiency = power out / power in = (Q * (Hg - Hf)) / (q * GCV) * 100%
+
+Q = rate of steam flow in kg/h
+Hg = enthalpy of saturated steam in kcal/kg
+Hf = enthalpy of feed water in kcal/kg
+q = rate of fuel use in kg/h
+GCV = gross calorific value in kcal/kg (e.g. pet coke 8200 kcal/kg)
+
+=>Indirect method: To measure the boiler efficiency in indirect method, we need a following parameter like:
+
+Ultimate analysis of fuel (H2,S2,S,C moisture constraint, ash constraint)
+Percentage of O2 or CO2 at flue gas
+Flue gas temperature at outlet
+Ambient temperature in deg c and humidity of air in kg/kg
+GCV of fuel in kcal/kg
+Ash percentage in combustible fuel
+GCV of ash in kcal/kg

@@ -1,0 +1,16 @@
+                                                          -:PIEZOELECTRIC EFFECT:-
+
+									Piezoelectricity was discovered by two French scientists’ brothers, Jacques and Pierre Curie, in 1880. 
+They found out about piezoelectricity after first realizing that pressure applied to quartz or even some certain crystals creates an electrical charge in that certain material.
+ They later referred to that strange and scientific phenomenon as the piezoelectric effect.
+The Curie brothers soon discovered the inverse piezoelectric effect. It was after they verified that when an electric field was enforced onto crystal leads, it led to 
+the malformation or disorder to the crystal lead—now called the inverse piezoelectric effect.
+		The term piezoelectricity comes from the Greek word piezo meaning to squeeze or press. Interestingly, electric in Greek means amber. Amber also happened to be 
+a source of electrical charge.		
+		Many electronic devices today use piezoelectricity. For example, when you use some type of voice-recognition software, or even Siri on your smartphone, the
+ microphone that you’re speaking into is probably using piezoelectricity. That piezo crystal turns the sound energy in your voice, and changes it into 
+	electrical signals for your computer or your phone to interpret.3 That all becomes possible with piezoelectricity.
+The creation of various more-advanced technologies can be traced to discovery of piezoelectricity. For example, the powerful sonar “sonobuoy” small
+ sensitive microphones, and the ceramic audio tone transducer, were made possible by piezoelectricity. Today we’re seeing the development of
+ ever-more piezoelectric materials and devices.
+

@@ -1,0 +1,9 @@
+-->The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. The atmosphere of Earth protects life on Earth by creating pressure allowing for liquid water to exist on the Earth's surface, absorbing ultraviolet solar radiation, warming the surface through heat retention (greenhouse effect), and reducing temperature extremes between day and night (the diurnal temperature variation).
+
+-->In general, air pressure and density decrease with altitude in the atmosphere. However, temperature has a more complicated profile with altitude, and may remain relatively constant or even increase with altitude in some regions (see the temperature section, below). Because the general pattern of the temperature/altitude profile is constant and measurable by means of instrumented balloon soundings, the temperature behavior provides a useful metric to distinguish atmospheric layers. In this way, Earth's atmosphere can be divided (called atmospheric stratification) into five main layers. Excluding the exosphere, the atmosphere has four primary layers, which are the troposphere, stratosphere, mesosphere, and thermosphere.From highest to lowest, the five main layers are:
+
+Exosphere: 700 to 10,000 km (440 to 6,200 miles)
+Thermosphere: 80 to 700 km (50 to 440 miles)
+Mesosphere: 50 to 80 km (31 to 50 miles)
+Stratosphere: 12 to 50 km (7 to 31 miles)
+Troposphere: 0 to 12 km (0 to 7 miles)

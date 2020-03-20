@@ -1,0 +1,13 @@
+This law is also called Kirchhoff's second law, Kirchhoff's loop (or mesh) rule, and Kirchhoff's second rule.
+
+This law states that:
+
+The directed sum of the potential differences (voltages) around any closed loop is zero.
+
+Similarly to KCL, it can be stated as:
+	(V1 + V2 + V3 + ... + Vn)=0
+	
+Limitations:
+
+KVL relies on the fact that the action of time-varying magnetic fields are confined to individual components, such as inductors.
+In reality, the induced electric field produced by an inductor is not confined, but the leaked fields are often negligible.

@@ -1,0 +1,20 @@
+This law is also called Kirchhoff's first law, Kirchhoff's point rule, or Kirchhoff's junction rule (or nodal rule).
+
+This law states that, for any node (junction) in an electrical circuit, 
+the sum of currents flowing into that node is equal to the sum of currents flowing out of that node; or equivalently:
+
+The algebraic sum of currents in a network of conductors meeting at a point is zero.
+
+Recalling that current is a signed (positive or negative) quantity reflecting direction towards or away from a node, this principle can be succinctly stated as:
+			(I1 + I2 + ... + In)=0
+The law is based on the conservation of charge where the charge (measured in coulombs) is the product of the current (in amperes) and the time (in seconds). 
+If the net charge in a region is constant, the KCL will hold on the boundaries of the region.
+This means that KCL relies on the fact that the net charge in the wires and components is constant.
+
+Limitations:
+
+KCL is dependent on the assumption that the net charge in any wire, junction or lumped component is constant. 
+Whenever the electric field between parts of the circuit is non-negligible, 
+such as when two wires are capacitively coupled, this may not be the case. 
+This occurs in high-frequency AC circuits, where the lumped element model is no longer applicable.
+For example, in a transmission line, the charge density in the conductor will constantly be oscillating.

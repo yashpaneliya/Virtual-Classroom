@@ -1,0 +1,31 @@
+-->Alternating current:-
+
+Direct current (DC) circuits involve current flowing in one direction. In alternating current (AC) circuits, 
+instead of a constant voltage supplied by a battery, the voltage oscillates in a sine wave pattern, varying with time as:
+
+		V = Vosinwt
+
+In a household circuit, the frequency is 60 Hz. 
+The angular frequency is related to the frequency, f, by:
+
+		w = 2*3.14*f
+
+Vo represents the maximum voltage, which in a household circuit in North America is about 170 volts. 
+We talk of a household voltage of 120 volts, though;
+this number is a kind of average value of the voltage. 
+The particular averaging method used is something called root mean square 
+(square the voltage to make everything positive, find the average, take the square root), or rms. 
+Voltages and currents for AC circuits are generally expressed as rms values. 
+For a sine wave, the relationship between the peak and the rms average is:
+
+rms value = 0.707 * peak value
+
+-->Alternating current (AC):- 
+
+It is an electric current which periodically reverses direction, 
+in contrast to direct current (DC) which flows only in one direction. 
+Alternating current is the form in which electric power is delivered to businesses and residences, 
+and it is the form of electrical energy that consumers typically use when they plug kitchen appliances, televisions, fans and electric lamps 
+into a wall socket. A common source of DC power is a battery cell in a flashlight. 
+The abbreviations AC and DC are often used to mean simply alternating and direct, 
+as when they modify current or voltage

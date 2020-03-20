@@ -1,0 +1,10 @@
+=>Miller indices form a notation system in crystallography for planes in crystal (Bravais) lattices.
+the notation {hkl} denotes the set of all planes that are equivalent to (hkl) by the symmetry of the lattice.
+In the context of crystal directions (not planes), the corresponding notations are:
+
+=>{hkl}, with square instead of round brackets, denotes a direction in the basis of the direct lattice vectors instead of the reciprocal lattice.
+
+=>similarly, the notation {hkl} denotes the set of all directions that are equivalent to {hkl} by symmetry.
+Miller indices were introduced in 1839 by the British mineralogist William Hallowes Miller, although an almost identical system (Weiss parameters) had already been used by German mineralogist Christian Samuel Weiss since 1817 . The method was also historically known as the Millerian system, and the indices as Millerian, although this is now rare.
+
+=>The Miller indices are defined with respect to any choice of unit cell and not only with respect to primitive basis vectors, as is sometimes stated.

@@ -1,0 +1,12 @@
+=>Refrigeration is a process of removing heat from a low-temperature reservoir and transferring it to a high-temperature reservoir. The work of heat transfer is traditionally driven by mechanical means, but can also be driven by heat, magnetism, electricity, laser, or other means. Refrigeration has many applications, including, but not limited to: household refrigerators, industrial freezers, cryogenics, and air conditioning. Heat pumps may use the heat output of the refrigeration process, and also may be designed to be reversible, but are otherwise similar to air conditioning units.
+
+=>Refrigeration has had a large impact on industry, lifestyle, agriculture, and settlement patterns. The idea of preserving food dates back to at least the ancient Roman and Chinese empires. However, mechanical refrigeration technology has rapidly evolved in the last century, from ice harvesting to temperature-controlled rail cars. 
+
+=>The introduction of refrigerated rail cars contributed to the westward expansion of the United States, allowing settlement in areas that were not on main transport channels such as rivers, harbors, or valley trails. Settlements were also developing in infertile parts of the country, filled with newly discovered natural resources.
+
+=>As quite similar criteria shall be fulfilled by working fluids (refrigerants) applied to heat pumps, refrigeration and ORC cycles, several working fluids are applied by all these technologies. Ammonia was one of the first refrigerants. Refrigeration can be defined as "The science of providing and maintaining temperature below that of surrounding atmosphere". It means continuous extraction of heat from a body whose temperature is already below the temperature of its surroundings.
+
+Vapor cycle refrigeration can further be classified as:
+
+=>Vapor-compression refrigeration
+=>Vapor-absorption refrigeration

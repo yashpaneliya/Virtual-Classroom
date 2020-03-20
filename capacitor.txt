@@ -1,0 +1,42 @@
+-->A capacitor is a passive two-terminal electronic component that stores electrical energy in an electric field. 
+The effect of a capacitor is known as capacitance. 
+While some capacitance exists between any two electrical conductors in proximity in a circuit, 
+a capacitor is a component designed to add capacitance to a circuit. 
+The capacitor was originally known as a condenser or condensator.
+
+-->The physical form and construction of practical capacitors vary widely and many capacitor types are in common use. 
+Most capacitors contain at least two electrical conductors often in the form of metallic plates or surfaces separated by a dielectric medium. 
+A conductor may be a foil, thin film, sintered bead of metal, or an electrolyte. 
+The nonconducting dielectric acts to increase the capacitor's charge capacity. 
+Materials commonly used as dielectrics include glass, ceramic, plastic film, paper, mica, air, and oxide layers. 
+Capacitors are widely used as parts of electrical circuits in many common electrical devices. 
+Unlike a resistor, an ideal capacitor does not dissipate energy.
+
+
+-->Parallel-plate capacitor:-
+
+The simplest model capacitor consists of two thin parallel conductive plates each with an area of A separated by a uniform gap of thickness d filled with a dielectric with permittivity .
+It is assumed the gap d is much smaller than the dimensions of the plates. 
+This model applies well to many practical capacitors which are constructed of metal sheets separated by a thin layer of insulating dielectric, 
+since manufacturers try to keep the dielectric very uniform in thickness to avoid thin spots which can cause failure of the capacitor.
+
+		C=eA/d
+
+-->For capacitors in parallel:-
+
+Capacitors in a parallel configuration each have the same applied voltage. 
+Their capacitances add up.
+Charge is apportioned among them by size. 
+Using the schematic diagram to visualize parallel plates, 
+it is apparent that each capacitor contributes to the total surface area.
+
+	Ceq. = C1 + C2 + C3 + ... + Cn
+
+-->For capacitors in series:-
+
+Connected in series, the schematic diagram reveals that the separation distance, not the plate area, adds up. 
+The capacitors each store instantaneous charge build-up equal to that of every other capacitor in the series. 
+The total voltage difference from end to end is apportioned to each capacitor according to the inverse of its capacitance. 
+The entire series acts as a capacitor smaller than any of its components.
+
+	1/Ceq. = 1/C1 + 1/C2 + 1/C3 + ... + 1/Cn
